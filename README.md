@@ -3,8 +3,8 @@
 ## Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML5
-CSS3
+HTML5,
+CSS3 e
 JS
 
 ## Projeto💻
